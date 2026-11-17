@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/hi-events-1?utm_medium=integration&utm_source=button&utm_campaign=hi-events)
+
 # Hi.Events on Railway
 
 Railway template for [Hi.Events](https://github.com/HiEventsDev/Hi.Events), the open-source event management and ticket selling platform (AGPL-3.0).
