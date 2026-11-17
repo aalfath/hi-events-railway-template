@@ -1,4 +1,4 @@
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/hi-events-1?utm_medium=integration&utm_source=button&utm_campaign=hi-events)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/hievents-1?utm_medium=integration&utm_source=button&utm_campaign=hi-events)
 
 # Hi.Events on Railway
 
